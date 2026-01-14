@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  example-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-14T16:25:13.956096271Z"
+    description: A Helm chart for Kubernetes
+    digest: 7739eb149ed3a6126e2df10df899fd6e2ef0420c4a7bf5f66b3532d97bba15b4
+    name: example-chart
+    type: application
+    urls:
+    - https://github.com/ad-signalio/chart-release-testing/releases/download/example-chart-0.1.0/example-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-14T16:25:13.95610656Z"
